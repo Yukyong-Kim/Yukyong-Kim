@@ -5,7 +5,7 @@
 - 📫 You can reach me at ykim.be@sookmyung.ac.kr
 
 ---
-![logo](myImg.jpg){: width="100" height="100"}
+![logo](/img/myImg.jpg)
 
 <img src="https://user-images.githubusercontent.com/44826830/142150938-78a51b1a-086f-424d-964a-02e4cdeed582.jpg" width="100" height="100">
 
